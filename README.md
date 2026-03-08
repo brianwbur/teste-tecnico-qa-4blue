@@ -24,6 +24,8 @@ A análise foi realizada com foco em:
 
 ## 4. Bugs encontrados
 
+> Observação: os achados foram documentados na ordem em que surgiram durante a análise exploratória da aplicação. Dessa forma, a sequência apresentada reflete o fluxo de identificação dos problemas e não a priorização técnica de correção, a qual foi classificada separadamente por severidade e prioridade em cada bug.
+
 ## Bug 01. Campo de e-mail no login aceita valores sem formato válido de e-mail
 
 **Descrição:**  
