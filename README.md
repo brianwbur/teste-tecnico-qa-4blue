@@ -22,6 +22,14 @@ A análise foi realizada com foco em:
 - consistência visual
 - experiência do usuário
 
+## Ambientes Utilizados nos Testes
+
+| Componente | Especificação  |
+|---|---|
+| URL | https://qa-play-sim.lovable.app |
+| Navegadores | Opera Early Access, Core 127.0.5778.96, Chromium 143.0.7499.194 / Google Chrome 145.0.7632.160 (Versão oficial) 64 bits |
+| Sistema Operacional | Windows 11 64 bits |
+
 ## 4. Bugs encontrados
 
 > Observação: os achados foram documentados na ordem em que surgiram durante a análise exploratória da aplicação. Dessa forma, a sequência apresentada reflete o fluxo de identificação dos problemas e não a priorização técnica de correção, a qual foi classificada separadamente por severidade e prioridade em cada bug.
